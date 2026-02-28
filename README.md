@@ -1,4 +1,4 @@
-# primetrade-data-science-assignment.
+# primetrade-data-science-project.
 
 ## Trader Performance vs. Market Sentiment Analysis
 
